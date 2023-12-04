@@ -1,0 +1,7 @@
+E:\Phase 2\Tech_mng\Teacher_Mng\Teacher_Mng\bin\Debug\Teacher_Mng.exe.config
+E:\Phase 2\Tech_mng\Teacher_Mng\Teacher_Mng\bin\Debug\Teacher_Mng.exe
+E:\Phase 2\Tech_mng\Teacher_Mng\Teacher_Mng\bin\Debug\Teacher_Mng.pdb
+E:\Phase 2\Tech_mng\Teacher_Mng\Teacher_Mng\obj\Debug\Teacher_Mng.csproj.AssemblyReference.cache
+E:\Phase 2\Tech_mng\Teacher_Mng\Teacher_Mng\obj\Debug\Teacher_Mng.csproj.CoreCompileInputs.cache
+E:\Phase 2\Tech_mng\Teacher_Mng\Teacher_Mng\obj\Debug\Teacher_Mng.exe
+E:\Phase 2\Tech_mng\Teacher_Mng\Teacher_Mng\obj\Debug\Teacher_Mng.pdb
